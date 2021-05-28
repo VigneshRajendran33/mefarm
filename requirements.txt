@@ -2,8 +2,7 @@ numpy
 pandas
 Flask
 scikit-learn
-torch===0.4.1 
-torchvision===0.4.2 -f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu torchvision==0.9.1+cpu torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 requests
 Pillow
 gunicorn == 20.0.4
