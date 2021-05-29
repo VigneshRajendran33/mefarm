@@ -6,4 +6,4 @@ requests
 Pillow
 gunicorn == 20.0.4
 torch==0.4.1
-torchvision==0.2.1
+torchvision==0.4.2
