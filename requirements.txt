@@ -5,5 +5,5 @@ scikit-learn
 requests
 Pillow
 gunicorn == 20.0.4
-torch==0.4.1
+torch==0.9.0
 torchvision==0.4.2
