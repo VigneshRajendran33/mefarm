@@ -4,5 +4,5 @@ Flask
 scikit-learn
 requests
 Pillow
-gunicorn == 20.0.4
-setuptools
+gunicorn
+setuptools>=68
