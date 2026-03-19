@@ -151,9 +151,13 @@ def fertilizer_recommendation():
 
     return render_template('fertilizer.html', title=title)
 
+
+
 # render disease prediction input page
 
-
+@ app.route('/disease', methods=['GET', 'POST'])
+def disease_prediction():
+    return render_template('disease.html')
 
 
 # ===============================================================================================
